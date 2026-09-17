@@ -154,10 +154,3 @@ This simulation is designed for:
 
 This system models a simplified biological battlefield where viruses evolve, hide, and spread, while the immune system continuously adapts to detect and eliminate threats in a dynamic environment.
 
----
-
-If you want, I can next turn this into:
-
-* a GitHub README with badges + install instructions
-* or a product landing page copy
-* or a technical architecture doc with diagrams
